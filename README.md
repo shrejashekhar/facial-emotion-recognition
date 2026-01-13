@@ -105,7 +105,7 @@ data/fer2013/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/facial-emotion-recognition.git
+git clone https://github.com/shrejashekhar/facial-emotion-recognition.git
 cd facial-emotion-recognition
 ```
 
