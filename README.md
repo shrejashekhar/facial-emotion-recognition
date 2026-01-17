@@ -179,14 +179,6 @@ python -m src.app_live_camera
 
 ---
 
-## 📌 Resume-Ready Highlights
-
-* Built a **real-time facial emotion recognition system** with CNNs and MTCNN, achieving high accuracy and real-time performance on CPU.
-* Designed a **detect–track–classify pipeline** using CSRT tracking to reduce inference latency and improve FPS by ~3×.
-* Implemented a **modular, production-grade ML architecture** suitable for deployment via REST APIs.
-
----
-
 ## 🔮 Future Improvements
 
 * Multi-face tracking with unique IDs
